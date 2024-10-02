@@ -1,0 +1,13 @@
+prefix=D:/krish_end_to_end/ml_end_to_end/Library
+exec_prefix=D:/krish_end_to_end/ml_end_to_end/Library
+libdir=D:/krish_end_to_end/ml_end_to_end/Library/lib
+sharedlibdir=D:/krish_end_to_end/ml_end_to_end/Library/lib
+includedir=D:/krish_end_to_end/ml_end_to_end/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
