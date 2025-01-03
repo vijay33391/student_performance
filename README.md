@@ -54,9 +54,3 @@ This project is designed to predict a student's Math score based on various fact
 - catboost
 - xgboost
 - streamlit
-
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/vijay33391/student_performance
