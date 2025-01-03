@@ -5,6 +5,9 @@
 ### Description
 This project is designed to predict a student's Math score based on various factors such as gender, race/ethnicity, parental education, lunch type, test preparation, and other scores. The application uses a user-friendly interface to input these variables and provides a predicted Math score.
 
+### LIVE DEMO
+CHECK OUT HERE:[LIVE DEMO](https://studentperformance-g8qoohgfvzmetpfjylgnkd.streamlit.app/)
+
 ### Features
 - **Gender Selection**: Allows the user to select the gender of the student.
 - **Race/Ethnicity Selection**: Allows the user to select the race/ethnicity group of the student.
